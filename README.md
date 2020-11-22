@@ -1,5 +1,7 @@
 # SliceCodeChallenge
 
+Javascript project for Slice PizzaBot Challenge
+
 ## Installation and Set-up
 
 ### Requirements:
@@ -14,5 +16,5 @@
 
 -Run Package using ```node index.js "5x5 (1, 3) (4, 4)" ```
 
-### Output: 
+## Output: 
 ```ENNNDEEEND ```
