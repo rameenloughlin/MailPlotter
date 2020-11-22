@@ -1,0 +1,14 @@
+{
+  "name": "SliceCodeChallenge",
+  "version": "1.0.0",
+  "description": "Slice PizzaBot Coding Challenge Written in JS",
+  "main": "index.js",
+  "keywords": [
+    "slicePizzaBot"
+  ],
+  "author": "Rameen Loughlin",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
