@@ -7,8 +7,12 @@
 
 ### Command-Line:
 -Clone Repo:   ```git clone https://github.com/rameenloughlin/SliceCodeChallenge.git ```
+
 -Navigate to src folder ```cd src```
+
 -Install Node Packages using ```npm install```
+
 -Run Package using ```node index.js "5x5 (1, 3) (4, 4)" ```
 
-### Output: ```ENNNDEEEND ```
+### Output: 
+```ENNNDEEEND ```
