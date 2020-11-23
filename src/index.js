@@ -110,4 +110,4 @@ slicePizzaBot.initDrops(userInput);
 slicePizzaBot.setDirection();
 console.log(slicePizzaBot.getDirection());
 
-
+module.exports = { SliceChallenge };
