@@ -10,6 +10,8 @@ Javascript project for Slice PizzaBot Challenge
 ### Command-Line:
 -Clone Repo:   ```git clone https://github.com/rameenloughlin/SliceCodeChallenge.git ```
 
+-Run test scripts: ```npm run tests```
+
 -Navigate to src folder ```cd src```
 
 -Install Node Packages using ```npm install```
