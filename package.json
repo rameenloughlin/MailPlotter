@@ -1,14 +1,23 @@
 {
   "name": "SliceCodeChallenge",
   "version": "1.0.0",
-  "description": "Slice PizzaBot Coding Challenge Written in JS",
+  "description": "Slice SliceChallenge Coding Challenge Written in JS",
   "main": "index.js",
+  "scripts": {
+    "tests": "jest --watchAll",
+    "test:utils.js": "jest src/test_scripts/utils.test.js --watch",
+    "test:index.js": "jest src/test_scripts/index.test.js --watch"
+  },
   "keywords": [
     "slicePizzaBot"
   ],
   "author": "Rameen Loughlin",
   "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
   "dependencies": {
+    "jest-validate": "^26.6.2",
     "lodash": "^4.17.20"
   }
 }
