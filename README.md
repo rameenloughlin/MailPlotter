@@ -1,6 +1,6 @@
 # SliceCodeChallenge
 
-Javascript project for Slice PizzaBot Challenge
+Javascript project to deliver mail to specified co-ordinates on a 2 Dimensional grid.
 
 ## Installation and Set-up
 
@@ -8,7 +8,7 @@ Javascript project for Slice PizzaBot Challenge
 -Project requires installation of [Node Package Manager](https://nodejs.org/en/download/)
 
 ### Command-Line:
--Clone Repo:   ```git clone https://github.com/rameenloughlin/SliceCodeChallenge.git ```
+-Clone Repo:   ```git clone https://github.com/rameenloughlin/MailPlotter.git ```
 
 -Run test scripts: ```npm run tests```
 
