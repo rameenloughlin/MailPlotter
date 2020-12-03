@@ -1,4 +1,4 @@
-# SliceCodeChallenge
+# Mail Plotter
 
 Javascript project to deliver mail to specified co-ordinates on a 2 Dimensional grid.
 
